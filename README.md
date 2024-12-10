@@ -18,6 +18,4 @@
 
 ## 流量图
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=CS-Survive-henu/Henu-Computer-Survival-Guide&type=Date)](https://star-history.com/#CS-Survive-henu/Henu-Computer-Survival-Guide&Date)
