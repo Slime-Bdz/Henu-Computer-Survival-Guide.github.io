@@ -15,3 +15,9 @@
 ## 当下计科教育该何去何从？
 
 人工智能，机器学习，在这个快速变化的时代，计算机科学教育正站在变革的风口浪尖。我们目睹着技术的融合，跨学科的交汇，政策的扶持，以及教育数字化的浪潮。前方何路？至少现在的我无法回答你，作为一个新大一，我无法想象三年之后我该何去何从，学校究竟能教会我什么？陈旧的开发环境，老掉牙的程序，这是计科的两面性，也是其荒诞性。
+
+## 流量图
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CS-Survive-henu/Henu-Computer-Survival-Guide&type=Date)](https://star-history.com/#CS-Survive-henu/Henu-Computer-Survival-Guide&Date)
