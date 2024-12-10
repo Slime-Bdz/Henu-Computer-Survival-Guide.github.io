@@ -20,6 +20,28 @@
 
 人工智能，机器学习，在这个快速变化的时代，计算机科学教育正站在变革的风口浪尖。我们目睹着技术的融合，跨学科的交汇，政策的扶持，以及教育数字化的浪潮。前方何路？至少现在的我无法回答你，作为一个新大一，我无法想象三年之后我该何去何从，学校究竟能教会我什么？陈旧的开发环境，老掉牙的程序，这是计科的两面性，也是其荒诞性。
 
+# 正文
+
+##  0  [大学开始的地方](https://github.com/CS-Survive-henu/Henu-Computer-Survival-Guide/wiki/HCSG%E2%80%90%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9)
+
+这是你开始梦的地方
+
+维护者：？
+##  1  [新生工具箱](https://github.com/CS-Survive-henu/Henu-Computer-Survival-Guide/wiki/%E6%96%B0%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AE%B1)
+
+维护者:[CSCI](https://github.com/ESP-8266-offical)
+
+##  2  [竞赛指北](https://github.com/CS-Survive-henu/Henu-Computer-Survival-Guide/wiki/%E7%AB%9E%E8%B5%9B%E6%8C%87%E5%8C%97) 
+
+维护者:[tuling1900](https://github.com/tuling1900)
+
+##  3  [升学（保研，考研，or出国）](https://github.com/CS-Survive-henu/Henu-Computer-Survival-Guide/wiki/%E5%8D%87%E5%AD%A6%EF%BC%88%E4%BF%9D%E7%A0%94%EF%BC%8C%E8%80%83%E7%A0%94%EF%BC%8Cor%E5%87%BA%E5%9B%BD%EF%BC%89)
+
+维护者:[WesCui](https://github.com/WesCui)
+
+##  4  [AI方向](https://github.com/CS-Survive-henu/Henu-Computer-Survival-Guide/wiki/AI%E6%96%B9%E5%90%91)
+
+
 #TODO
 
 ## 流量图
